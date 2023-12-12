@@ -1,3 +1,3 @@
 # stunnurgunner-practice
-This is the first project in github \n
+This is the first project in github <br>
 Author: Stunner Gunner
